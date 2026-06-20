@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Dhyey! Welcome to my GitHub! <img width="100" height="100" alt="image" src="img.png" />
-
+# 👋 Hi, I'm Dhyey! Welcome to my GitHub! 
 
 </div>
 
