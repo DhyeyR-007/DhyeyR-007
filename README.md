@@ -12,7 +12,6 @@ I'm a PhD candidate at the **[QUT Centre for Robotics](https://research.qut.edu.
 - 🔭 **Research:** Visual Place Recognition · SLAM · Perception for Physical AI
 - 🎓 **Education:** PhD @ QUT · M.S. Robotics @ University of Michigan Ann Arbor
 - 📍 **Location:** Brisbane, Australia (UTC +10:00)
-- 📄 **Latest paper:** [Quantile Transfer for Reliable Operating Point Selection in VPR](https://arxiv.org/abs/2602.04401) — arXiv 2025
 
 ---
 
