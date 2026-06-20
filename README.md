@@ -10,8 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhyey-manish-rajani-1629881ab)
 [![Email](https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white)](mailto:dhyeymanish.rajani@hdr.qut.edu.au)
-[![Website](https://img.shields.io/badge/Website-b8532a?style=flat&logo=firefox&logoColor=white)](https://dhyeyr-007.github.io)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](#)
 
 </div>
 
