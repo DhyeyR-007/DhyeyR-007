@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Dhyey! Welcome to my GitHub! <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3f46e61b-8001-476a-b5d4-5a7d611eb38e" />
+# 👋 Hi, I'm Dhyey! Welcome to my GitHub! <img width="100" height="100" alt="image" src="img.png" />
 
 
 </div>
