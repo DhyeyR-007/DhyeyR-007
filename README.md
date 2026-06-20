@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi, I'm Dhyey! Welcome to my GitHub!
+# 👋 Hi, I'm Dhyey! Welcome to my GitHub! <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3f46e61b-8001-476a-b5d4-5a7d611eb38e" />
+
 
 </div>
 
 
-### 👋 About me
+### About me
 
-- I'm currenly a PhD candidate at the **[QUT Centre for Robotics](https://research.qut.edu.au/qcr/people/dhyey-manish-rajani/)**, working with [Dr. Tobias Fischer](https://www.linkedin.com/in/tobiasrobotics/) and [Prof. Michael Milford](https://www.linkedin.com/in/michaeljmilford/).
-
+- 💼 I'm currenly a PhD candidate at the **[QUT Centre for Robotics](https://research.qut.edu.au/qcr/people/dhyey-manish-rajani/)**, advised by [Dr. Tobias Fischer](https://www.linkedin.com/in/tobiasrobotics/) and [Prof. Michael Milford](https://www.linkedin.com/in/michaeljmilford/).
 - 🔭 My research focuses on Robot Localization, specifically ***Visual Place Recognition*** — enabling robots ***to know where they are*** reliably, efficiently, and accurately in ***GPS/GNSS-denied or degraded*** environments.
 - **🤝 Open to collaborate on:** Visual Place Recognition, Machine Learning, Robot Localization & State Estimation, Autonomous Driving & Navigation, Deep Learning for Robot Perception, and SLAM (Simultaneous Localization and Mapping).
 - 🎓 **Education:** PhD @ Queensland University of Technology, Australia |  Master of Science (MS) in Robotics @ University of Michigan Ann Arbor, USA.
@@ -76,5 +76,5 @@
 </td>
 </tr>
 </table>
----
+
 
