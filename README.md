@@ -11,7 +11,7 @@
 - 🔭 My research focuses on Robot Localization, specifically ***Visual Place Recognition*** — enabling robots ***to know where they are*** reliably, efficiently, and accurately in ***GPS/GNSS-denied or degraded*** environments.
 - **🤝 Open to collaborate on:** Visual Place Recognition, Machine Learning, Robot Localization & State Estimation, Autonomous Driving & Navigation, Deep Learning for Robot Perception, and SLAM (Simultaneous Localization and Mapping).
 - 🎓 **Education:** PhD @ Queensland University of Technology, Australia |  Master of Science (MS) in Robotics @ University of Michigan Ann Arbor, USA.
-- 📍 **Location:** Brisbane, Queensland, Australia
+- 📍 **Currently located:** Brisbane, Queensland, Australia
 
 ---
   
